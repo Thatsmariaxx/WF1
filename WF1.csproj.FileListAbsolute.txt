@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.Form1.resources
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WF1\WF1\obj\Debug\net6.0-windows\WF1.csproj.CoreCompileInputs.cache
